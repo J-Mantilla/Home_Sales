@@ -1,4 +1,5 @@
 Home Sales Analysis
+
 This project involves analyzing home sales data using PySpark and SparkSQL. The analysis is done by answering specific queries related to home sales prices, taking advantage of PySpark's capabilities to handle large datasets efficiently.
 
 Steps to Complete the Analysis
